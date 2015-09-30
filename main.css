@@ -1,0 +1,7 @@
+.jumbotron {
+    background-color: #0066FF;
+    background-image: linear-gradient(to bottom, #0066FF 0, #6699FF 100%);
+}
+.jumbotron h1, h3 {
+    color: #EEEEEE;
+}
