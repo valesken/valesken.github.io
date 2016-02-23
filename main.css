@@ -34,8 +34,14 @@ img {
     display: inline-block;
     vertical-align: top;
 }
+ul.nav a {
+    border-radius: 100px !important;
+    -webkit-transition: background-color .3s ease-in-out;
+    transition: background-color .3s ease-in-out;
+}
 ul.nav a:hover {
     background-color: rgb(150, 150, 150) !important;
-    background-color: rgba(150, 150, 150, 0.5) !important;
-    border-radius: 100px !important;
+    background-color: rgba(150, 150, 150, 0.3) !important;
+    -webkit-transition: background-color .3s ease-in-out;
+    transition: background-color .3s ease-in-out;
 }

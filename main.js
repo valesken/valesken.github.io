@@ -1,4 +1,4 @@
-var phrases = ['Software Engineer', 'Traveller', 'Mobile Developer', 'Book Lover', 'Grad Student'];
+var phrases = ['Software Engineer', 'Traveler', 'Mobile Developer', 'Grad Student'];
 var position = 0;
 
 function advancePosition() {
