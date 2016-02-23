@@ -25,10 +25,15 @@ function changeInitialText() {
     setInterval(changeText, 5000);
 }
 
-$(document).ready(function() {
+function centerMain() {
     $('#main').css({
-        'margin-left': ($('.container').width() - $('#main').outerWidth()) / 2,
+        'margin-left': ($(window).width() - $('#main').outerWidth()) / 2,
         'margin-top': ($(window).height() - $('#main').outerHeight()) / 2
     });
+}
+
+$(document).ready(function() {
+    centerMain();
     setTimeout(changeInitialText, 3000);
 });
+$(window).resize(centerMain);
