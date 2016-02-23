@@ -1,7 +1,30 @@
-.jumbotron {
-    background-color: #0066FF;
-    background-image: linear-gradient(to bottom, #0066FF 0, #6699FF 100%);
+body {
+    background-image: url('arctic.jpg');
+    font-family: 'Georgia';
+    color: #333333;
 }
-.jumbotron h1, h3 {
-    color: #EEEEEE;
+
+.container {
+    text-align: center;
+}
+.title {
+    font-size: 80px;
+}
+.panel {
+    background-color: #DEDEDE;
+    box-shadow: 0 0 30px black;
+}
+#main {
+    width: 70%;
+}
+
+.navbar {
+    border-radius: 0px;
+    text-align: center;
+    margin: 0px;
+}
+.navbar-nav {
+    float: none;
+    display: inline-block;
+    vertical-align: top;
 }
