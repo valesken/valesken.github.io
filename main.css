@@ -15,8 +15,14 @@ body {
     width: 60%;
 }
 
+.option {
+    -webkit-animation-duration: 1.5s;
+}
+
 img {
     margin: 20px;
+    height: 150px;
+    width: 150px;
 }
 
 .navbar {
