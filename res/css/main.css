@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
 
 body {
-    background-image: url('notebook.png');
+    background-image: url('../images/notebook.png');
     background-position: fixed;
     font-family: "Oswald", sans-serif;
     color: #333;
