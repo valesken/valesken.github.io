@@ -1,7 +1,8 @@
 body {
-    background-image: url('arctic.jpg');
-    font-family: 'Georgia';
-    color: #333333;
+    background-image: url('notebook.png');
+    background-position: fixed;
+    font-family: 'Garamond';
+    color: #333;
 }
 
 .container {
@@ -10,13 +11,12 @@ body {
 .title {
     font-size: 80px;
 }
-.panel {
-    background-color: rgb(230, 230, 230);
-    background-color: rgba(230, 230, 230, 0.55);
-    box-shadow: 0 0 30px black;
-}
 #main {
-    width: 70%;
+    width: 60%;
+}
+
+img {
+    margin: 20px;
 }
 
 .navbar {
