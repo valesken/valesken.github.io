@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
+
 body {
     background-image: url('notebook.png');
     background-position: fixed;
-    font-family: 'Garamond';
+    font-family: "Oswald", sans-serif;
     color: #333;
 }
 
@@ -34,4 +36,9 @@ img {
     float: none;
     display: inline-block;
     vertical-align: top;
+}
+ul.nav a:hover {
+    background-color: rgb(150, 150, 150) !important;
+    background-color: rgba(150, 150, 150, 0.5) !important;
+    border-radius: 100px !important;
 }
