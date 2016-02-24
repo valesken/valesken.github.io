@@ -27,8 +27,8 @@ function changeInitialText() {
 
 function centerMain() {
     $('#main').css({
-        'margin-left': ($(window).width() - $('#main').outerWidth()) / 2,
-        'margin-top': ($(window).height() - $('#main').outerHeight()) / 2
+        'margin-top': ($(window).height() - $('#main').outerHeight()) / 2,
+        'margin-left': ($(window).width() - $('#main').outerWidth()) / 2
     });
 }
 
