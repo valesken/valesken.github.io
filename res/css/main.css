@@ -16,12 +16,15 @@ body {
 
 .option {
     -webkit-animation-duration: 1.5s;
+    -moz-animation-duration: 1.5s;
+    -o-animation-duration: 1.5s;
+    animation-duration: 1.5s;
 }
 
 img {
     margin: 20px;
-    height: 150px;
-    width: 150px;
+    height: 180px;
+    width: 180px;
 }
 
 .navbar {
@@ -35,13 +38,18 @@ img {
     vertical-align: top;
 }
 ul.nav a {
+    font-size: 20px;
     border-radius: 100px !important;
     -webkit-transition: background-color .3s ease-in-out;
+    -moz-transition: background-color .3s ease-in-out;
+    -o-transition: background-color .3s ease-in-out;
     transition: background-color .3s ease-in-out;
 }
 ul.nav a:hover {
     background-color: rgb(150, 150, 150) !important;
     background-color: rgba(150, 150, 150, 0.3) !important;
     -webkit-transition: background-color .3s ease-in-out;
+    -moz-transition: background-color .3s ease-in-out;
+    -o-transition: background-color .3s ease-in-out;
     transition: background-color .3s ease-in-out;
 }
