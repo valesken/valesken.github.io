@@ -11,10 +11,11 @@ body {
     text-align: center;
 }
 .title {
-    font-size: 80px;
+    font-size: 11em;
 }
 
 .option {
+    font-size: 4em;
     -webkit-animation-duration: 1.5s;
     -moz-animation-duration: 1.5s;
     -o-animation-duration: 1.5s;
@@ -23,8 +24,8 @@ body {
 
 img {
     margin: 20px;
-    height: 180px;
-    width: 180px;
+    height: 350px;
+    width: 350px;
 }
 
 .navbar {
@@ -38,7 +39,7 @@ img {
     vertical-align: top;
 }
 ul.nav a {
-    font-size: 20px;
+    font-size: 3em;
     border-radius: 100px !important;
     -webkit-transition: background-color .3s ease-in-out;
     -moz-transition: background-color .3s ease-in-out;
@@ -52,4 +53,25 @@ ul.nav a:hover {
     -moz-transition: background-color .3s ease-in-out;
     -o-transition: background-color .3s ease-in-out;
     transition: background-color .3s ease-in-out;
+}
+
+/* specific styles for desktop */
+@media screen and (min-width: 62em) {
+    .title {
+        font-size: 8em;
+    }
+
+    .option {
+        font-size: 2em;
+    }
+
+    img {
+        margin: 20px;
+        height: 180px;
+        width: 180px;
+    }
+
+    ul.nav a {
+        font-size: 2em;
+    }
 }
