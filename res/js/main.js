@@ -52,6 +52,8 @@ function centerContent() {
  * that they want to go to the 'Contact Me' or 'Home' page.
  */
 function changeInnerContent(event) {
+    $(".alert-success").addClass("do-not-display");
+    $(".alert-danger").addClass("do-not-display");
     var $target = $(event.target);
     if ($target.attr('id') === 'contact-link') {
         if ($target.text() === 'Contact Me') {
@@ -150,9 +152,13 @@ function sendEmail() {
             dataType: 'json'
         }).done(function(data) {
             if(data.statusCode == 200){
-                console.log('Success! ' + data.message);
+                $('.alert-danger').addClass('do-not-display');
+                $('.alert-success').removeClass('do-not-display');
+                $('.alert-success').text('Success!' + data.message);
             } else {
-                console.log('failure');
+                $('.alert-success').addClass('do-not-display');
+                $('.alert-danger').removeClass('do-not-display');
+                $('.alert-danger').text('Error!' + data.message);
             }
         });
     }
