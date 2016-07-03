@@ -10,6 +10,11 @@ body {
 .container {
     text-align: center;
 }
+
+.inner-content {
+    margin-bottom: 30px;
+}
+
 .title {
     font-size: 11em;
 }
@@ -28,18 +33,23 @@ img {
     width: 350px;
 }
 
+#send-button {
+    width: 100%;
+}
+
 .navbar {
     border-radius: 0px;
     text-align: center;
     margin: 0px;
 }
 .navbar-nav {
+    clear: both;
     float: none;
     display: inline-block;
     vertical-align: top;
 }
 ul.nav a {
-    font-size: 3em;
+    font-size: 2.8em;
     border-radius: 100px !important;
     -webkit-transition: background-color .3s ease-in-out;
     -moz-transition: background-color .3s ease-in-out;
@@ -55,8 +65,20 @@ ul.nav a:hover {
     transition: background-color .3s ease-in-out;
 }
 
+.do-not-display {
+    display: none;
+}
+
+.noresize {
+  resize: none; 
+}
+
 /* specific styles for desktop */
 @media screen and (min-width: 62em) {
+    .inner-content {
+        margin-bottom: 0;
+    }
+
     .title {
         font-size: 8em;
     }
@@ -71,7 +93,23 @@ ul.nav a:hover {
         width: 180px;
     }
 
+    .form-control {
+        width: 80%;
+        margin: auto;
+    }
+
+    .glyphicon {
+        margin-right: 10%;
+        visibility: hidden;
+    }
+
+    #send-button {
+        margin: 30px 0px 10px;
+        width: 250px;
+    }
+
     ul.nav a {
+        margin-top: 20px;
         font-size: 2em;
     }
 }
