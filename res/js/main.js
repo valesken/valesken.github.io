@@ -40,11 +40,29 @@ function changeInitialPhrase() {
 /**
  * Vertically and horizontally center the content of the site.
  */
-function centerContent() {
-    $('#content').css({
-        'margin-top': ($(window).height() - $('#content').outerHeight()) / 2,
-        'margin-left': ($(window).width() - $('#content').outerWidth()) / 2
+function centerContent(animate) {
+    var $content = $('#content');
+    var $navbar = $('.navbar');
+    var contentMarginTop = ($(window).height() - $content.outerHeight()) / 2;
+    // Center main content
+    $content.css({
+        'margin-top': contentMarginTop,
+        'margin-left': ($(window).width() - $content.outerWidth()) / 2
     });
+    // Center navbar
+    $navbar.css({
+        'width': '100%',
+        'text-align': 'center'
+    });
+    if (animate) {
+        $navbar.animate({
+            'margin-top': (contentMarginTop + $content.outerHeight()).toString()
+        }, 500);
+    } else {
+        $navbar.css({
+            'margin-top': contentMarginTop + $content.outerHeight()
+        });
+    }
 }
 
 /**
@@ -57,16 +75,31 @@ function changeInnerContent(event) {
     var $target = $(event.target);
     if ($target.attr('id') === 'contact-link') {
         if ($target.text() === 'Contact Me') {
-            $('#main-content').addClass('do-not-display');
-            $('#contact-content').removeClass('do-not-display');
-            $target.text("Home");
+            // Fade out main-content, fade in contact-content
+            $('#main-content').removeClass('fadeInLeft');
+            $('#main-content').addClass('fadeOutLeft');
+            setTimeout(function() {
+                $('#main-content').addClass('do-not-display');
+                $('#contact-content').removeClass('do-not-display');
+                $('#contact-content').removeClass('fadeOutRight');
+                $('#contact-content').addClass('fadeInRight');
+                $target.text("Home");
+                centerContent(true);
+            }, 750);
         } else {
-            $('#main-content').removeClass('do-not-display');
-            $('#contact-content').addClass('do-not-display');
-            $target.text("Contact Me");
+            // Fade out contact-content, fade in main-content
+            $('#contact-content').removeClass('fadeInRight');
+            $('#contact-content').addClass('fadeOutRight');
+            setTimeout(function() {
+                $('#contact-content').addClass('do-not-display');
+                $('#main-content').removeClass('do-not-display');
+                $('#main-content').removeClass('fadeOutLeft');
+                $('#main-content').addClass('fadeInLeft');
+                $target.text("Contact Me");
+                centerContent(true);
+            }, 750);
         }
     }
-    centerContent();
 }
 
 /**
@@ -164,11 +197,16 @@ function sendEmail() {
     }
 }
 
+// Initial DOM ready, kick everything off
 $(document).ready(function() {
-    centerContent();
+    centerContent(false);
     setTimeout(changeInitialPhrase, 3000);
     $('a').on('click', changeInnerContent);
     $('.form-control').on('change', checkContactFormInput);
     $('#send-button').on('click', sendEmail);
 });
-$(window).resize(centerContent);
+
+// If window is resized, re-center everything
+$(window).resize(function() {
+    centerContent(false);
+});

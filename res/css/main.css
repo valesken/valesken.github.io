@@ -13,6 +13,10 @@ body {
 
 .inner-content {
     margin-bottom: 30px;
+    -webkit-animation-duration: 0.75s;
+    -moz-animation-duration: 0.75s;
+    -o-animation-duration: 0.75s;
+    animation-duration: 0.75s;
 }
 
 .title {
@@ -41,6 +45,7 @@ img {
     border-radius: 0px;
     text-align: center;
     margin: 0px;
+    position: absolute;
 }
 .navbar-nav {
     clear: both;
