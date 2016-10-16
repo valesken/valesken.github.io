@@ -42,7 +42,7 @@ function changeInitialPhrase() {
  */
 function centerContent(animate) {
     var $content = $('#content');
-    var $navbar = $('.navbar');
+    var $navbar = $('.myNav');
     var contentMarginTop = ($(window).height() - $content.outerHeight()) / 2;
     // Center main content
     $content.css({
