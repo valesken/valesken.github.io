@@ -1,5 +1,5 @@
-var phrases = ['Software Engineer', 'Traveler', 'Mobile Developer', 
-               'Grad Student', 'Full-Stack Developer', 'Human'];
+var phrases = ['Software Engineer', 'Traveler', 'Full-Stack Developer',  
+               'Writer', 'Mobile Developer', 'Human'];
 var position = 0;
 
 /**
