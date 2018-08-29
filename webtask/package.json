@@ -1,0 +1,17 @@
+{
+  "name": "webtask",
+  "version": "1.0.0",
+  "description": "website webtask",
+  "main": "webtask.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.8",
+    "webtask-tools": "^3.4.0"
+  }
+}

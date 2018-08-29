@@ -1,63 +1,59 @@
-var Express = require('express');
-var request = require('request');
-var wt = require('webtask-tools');
+const express = require('express');
+const bodyParser = require('body-parser');
+const wt = require('webtask-tools');
+const nodemailer = require('nodemailer');
 
-var app = new Express();
-var router = Express.Router();
+const app = express();
+const router = express.Router();
 
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({extended: false}));
 app.use(router);
 
 const RESPONSE = {
-  OK : {
-    statusCode : 200,
+  OK: {
+    statusCode: 200,
     message: 'Email sent successfully!'
   },
-  ERROR : {
+  ERROR: {
     statusCode: 500,
     message: 'Something went terribly, horribly, disastrously wrong!'
   }
-}
+};
 
 router.post('/', function (req, res) {
-    // Get secrets
-    var POSTMARK_SERVER_KEY = req.webtaskContext.secrets.POSTMARK_SERVER_KEY;
-    var FROM_EMAIL = req.webtaskContext.secrets.FROM_EMAIL;
-    var TO_EMAIL = req.webtaskContext.secrets.TO_EMAIL;
+  // Get secrets
+  const GMAIL_USER = req.webtaskContext.secrets.GMAIL_USER;
+  const GMAIL_PASSWORD = req.webtaskContext.secrets.GMAIL_PASSWORD;
 
-    // Get email information
-    var subject = '[Website Contact]';
-    if (req.webtaskContext.data.subject.length > 0) {
-        subject = subject + ' ' + req.webtaskContext.data.subject;
-    } else {
-        subject = subject + ' No Subject';
+  // Get email information
+  let subject = '[Website Contact]';
+  if (req.body.subject.length > 0) {
+    subject = subject + ' ' + req.body.subject;
+  } else {
+    subject = subject + ' No Subject';
+  }
+  const replyTo = req.body.replyTo; // TODO: validate replyTo email
+  const textBody = req.body.textBody;
+
+  let transporter = nodemailer.createTransport({
+    service: 'gmail',
+    auth: {
+      user: GMAIL_USER,
+      pass: GMAIL_PASSWORD
     }
-    var replyTo = req.webtaskContext.data.replyTo; // TODO: validate replyTo email
-    var textBody = req.webtaskContext.data.textBody;
-
-    request({
-        url: 'https://api.postmarkapp.com/email',
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json',
-            'Accept': 'application/json',
-            'X-Postmark-Server-Token': POSTMARK_SERVER_KEY
-        },
-        json: {
-            'From': FROM_EMAIL,
-            'To': TO_EMAIL,
-            'Subject': subject,
-            'TextBody': textBody,
-            'ReplyTo': replyTo
-        }
-    }, function(error, response, body) {
-        if (!error) {
-            res.writeHead(RESPONSE.OK.statusCode, { 'Content-Type': 'application/json'});
-            res.end(JSON.stringify(RESPONSE.OK));
-        } else {
-            res.writeHead(RESPONSE.ERROR.statusCode, { 'Content-Type': 'application/json'});
-            res.end(JSON.stringify(RESPONSE.ERROR));
-        }
-    });
+  });
+  const mailOptions = {
+    from: replyTo,
+    to: GMAIL_USER,
+    subject: subject,
+    text: textBody
+  };
+  transporter.sendMail(mailOptions, function (error) {
+    const result = error ? RESPONSE.ERROR : RESPONSE.OK;
+    res.writeHead(result.statusCode, { 'Content-Type': 'application/json'});
+    res.end(JSON.stringify(result));
+  });
 });
 
 module.exports = wt.fromExpress(app);
