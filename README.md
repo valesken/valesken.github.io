@@ -9,4 +9,4 @@ Frameworks/libraries uses:
 - webtask.io
 - express.js
 - node.js
-- request.js
+- nodemailer.js
