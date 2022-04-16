@@ -7,7 +7,7 @@ tags: ['travel']
 
 Hello and welcome!
 
-Many people have been asking how to follow along as Alexa and I travel around the world. Well, this is it! This blog
+Some people have been asking how to follow along as Alexa and I travel around the world. Well, this is it! This blog
 is where I'll capture some of our travel stories (and struggles). I'll probably also write a bit about being a software
 engineer on the road and my thoughts on writing, because that's part of who I am.  
 
@@ -25,10 +25,10 @@ When we booked our first international flight, months ago, it started to feel re
 real. When we put our last box in storage, locked the door, and drove away it felt real. You get the idea.
 
 Even now, we're still having these moments. In Israel, we were surrounded by friends and friends of friends, we had a
-WhatsApp support group of fellow travelers, and we could count on seeing friendly faces most days. When we left that
+WhatsApp support group of fellow travelers, and we could count on seeing familiar faces most days. When we left that
 behind to come to Greece, the trip felt real in a whole new way.
 
-Now that I finally have this blog up and running, let me tell you: it finally feels real.
+Now that I finally have this blog up and running, let me tell you; it finally feels real.
 
 ## What's Next?
 
