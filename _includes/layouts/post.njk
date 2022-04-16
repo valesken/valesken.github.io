@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+---
+
+{% set filteredTags = tags | noPostTag %}
+
+<main class="section is-flex-grow-1">
+  <article class="container content">
+
+    <div class='postTop'>
+      <h1>{{ title }}</h1>
+      <i>{{ date | formatDate }}</i>
+      <div class="tags is-justify-content-center mt-3">
+        {% for tag in filteredTags %}
+          <a href="/tags/{{ tag }}" class="tag">{{ tag }}</a>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class='postContent'>
+      {{ content | safe }}
+    </div>
+  </article>
+</main>
