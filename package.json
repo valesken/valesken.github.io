@@ -1,0 +1,20 @@
+{
+  "name": "valesken.github.io",
+  "version": "1.0.0",
+  "description": "My website and blog. Visit https://valesken.github.io to see the magic.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-valesken:valesken/valesken.github.io.git"
+  },
+  "keywords": ["blog", "freerangejeff"],
+  "author": "Jeff Kennedy",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}

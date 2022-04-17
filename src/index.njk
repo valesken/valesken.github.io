@@ -1,0 +1,21 @@
+---
+description: This is a post on Free Range Jeff marking the start of the blog.
+layout: layouts/page.njk
+---
+
+{% set post = collections.post | last %}
+{% set filteredTags = post.data.tags | noPostTag %}
+
+<div class='postTop'>
+  <h1>{{ post.data.title }}</h1>
+  <i>{{ post.date | formatDate }}</i>
+  <div class="tags is-justify-content-center mt-3">
+    {% for tag in filteredTags %}
+      <a href="/tags/{{ tag }}" class="tag">{{ tag }}</a>
+    {% endfor %}
+  </div>
+</div>
+
+<div class='postContent'>
+  {{ post.templateContent | safe }}
+</div>

@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="{{ '/theme.css' | url }}">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="{{ description or metadata.description }}">
+        <title>{{ title or metadata.title }}</title>
+    </head>
+
+    <body class="is-flex is-flex-direction-column">
+        {% include "layouts/nav.njk" %}
+    </body>
+
+    {{ content | safe }}
+</html>

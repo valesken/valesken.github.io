@@ -1,0 +1,11 @@
+img {
+    width: 100%
+}
+
+.postTop {
+    text-align: center;
+}
+
+.container.content {
+    max-width: 816px !important;
+}
