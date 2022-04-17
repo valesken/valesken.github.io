@@ -1,7 +1,7 @@
 {
   "name": "valesken.github.io",
   "version": "1.0.0",
-  "description": "My website. Visit https://valesken.github.io to see links to my resume, linkedIn profile, and github profile. You can also contact me directly through a form backed by webtask, which is a serverless framework provided by Auth0.",
+  "description": "My website and blog. Visit https://valesken.github.io to see the magic.",
   "main": "index.js",
   "scripts": {
     "build": "npx @11ty/eleventy",
@@ -11,9 +11,9 @@
     "type": "git",
     "url": "git@github.com-valesken:valesken/valesken.github.io.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["blog", "freerangejeff"],
+  "author": "Jeff Kennedy",
+  "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0"
   }
