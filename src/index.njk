@@ -4,6 +4,7 @@ layout: layouts/page.njk
 ---
 
 {% set post = collections.post | last %}
+{% set previousPost = collections.post | getPreviousCollectionItem(post) %}
 {% set filteredTags = post.data.tags | noPostTag %}
 
 <div class='postTop'>
@@ -16,6 +17,14 @@ layout: layouts/page.njk
   </div>
 </div>
 
+<hr>
+
 <div class='postContent'>
   {{ post.templateContent | safe }}
+</div>
+
+<hr>
+
+<div>
+  Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>
 </div>

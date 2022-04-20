@@ -17,6 +17,22 @@ module.exports = function(eleventyConfig) {
         return tagsArr.filter((tag) => tag !== 'post');
     })
 
+    // .eleventy.js
+    eleventyConfig.addCollection("post", function(collection) {
+        const postCollection = collection.getFilteredByTag("post");
+
+        for(let i = 0; i < postCollection.length ; i++) {
+            const prevPost = postCollection[i-1];
+            const nextPost = postCollection[i+1];
+
+            postCollection[i].data["prevPost"] = prevPost;
+            postCollection[i].data["nextPost"] = nextPost;
+        }
+
+        return postCollection;
+    });
+
+
     // Directory Structure
     return {
         dir: {

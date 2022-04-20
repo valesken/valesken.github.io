@@ -3,6 +3,8 @@ layout: layouts/base.njk
 ---
 
 {% set filteredTags = tags | noPostTag %}
+{% set nextPost = collections.post | getNextCollectionItem(page) %}
+{% set previousPost = collections.post | getPreviousCollectionItem(page) %}
 
 <main class="section is-flex-grow-1">
   <article class="container content">
@@ -17,8 +19,21 @@ layout: layouts/base.njk
       </div>
     </div>
 
+    <hr>
+
     <div class='postContent'>
       {{ content | safe }}
+    </div>
+
+    <hr>
+
+    <div class="columns">
+      <div class="column is-half">
+        {% if previousPost %}Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a>{% endif %}
+      </div>
+      <div class="column is-half has-text-right">
+        {% if nextPost %}Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a>{% endif %}
+      </div>
     </div>
   </article>
 </main>
