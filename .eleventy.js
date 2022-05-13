@@ -1,6 +1,9 @@
 
 module.exports = function(eleventyConfig) {
 
+    // Copy the CNAME file
+    eleventyConfig.addPassthroughCopy('src/CNAME');
+
     // Copy the `images` folder to the output
     eleventyConfig.addPassthroughCopy('src/_images');
 
