@@ -5,6 +5,8 @@ date: 2022-05-15
 tags: ['travel', 'greece', 'wwoof', 'farm']
 ---
 
+![The hillside town of Milies](/_images/milies.png)
+
 Picture a slope punctuated with olive trees. The sun is shining and in the distance, the bay is sparkling. Its depths
 swallow the sky above and exhale an incredible myriad of blues. Further in the distance, the hills and mountains of
 Greece present themselves in misty layers, like some sort of collage.
