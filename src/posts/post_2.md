@@ -5,7 +5,7 @@ date: 2022-04-20
 tags: ['travel', 'greece', 'meteora', 'kalambaka']
 ---
 
-![Monastery of the Holy Trinity at Meteora](/_images/meteora.png)
+<img src="/_images/meteora.png" class="article-topper" alt="Monastery of the Holy Trinity at Meteora" />
 
 It's five days later, and we're back on the same train we took to come into this small town in central Greece, headed in
 the opposite direction. Kalambaka is the end of the line in these parts. Doesn't matter if you're heading north or

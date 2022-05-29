@@ -5,7 +5,7 @@ date: 2022-05-29
 tags: ['travel', 'england', 'uk', 'cornwall', 'bath']
 ---
 
-![Sunset at St Ives in Cornwall](/_images/st_ives.png)
+<img src="/_images/st_ives.png" class="article-topper" alt="Sunset at St Ives in Cornwall" />
 
 A long while back, long before we started on this trip, we decided that planning an entire year of travel was
 unreasonable. Especially given the ever-changing COVID restrictions, there were simply too many variables to anticipate.
@@ -45,8 +45,8 @@ America, you can do better.
 
 At any rate, we made it to Greenwich. The observatory is a set of two smallish brick buildings on a low hill overlooking
 London. It's a remarkable view. In the foreground, bordered by the river Thames, is a wide open green space and the
-colonnaded Queen's Court(???). In the background sprawls the City of London, St. Paul's Cathedral looming large. It's
-an interesting point of connection to the Observatory, for both were originally designed and built by Christopher Wren.
+colonnaded Queen's House. In the background sprawls the City of London, St. Paul's Cathedral looming large. It's an
+interesting point of connection to the Observatory, for both were originally designed and built by Christopher Wren.
 
 There's a lot ot learn at the Greenwich Observatory and I won't bore you by reciting it all here. But I will say that it
 was very cool to stand on the Prime Meridian and learn about why the Prime Meridian even exists. There's a wikipedia

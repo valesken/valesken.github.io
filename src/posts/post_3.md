@@ -5,7 +5,7 @@ date: 2022-05-07
 tags: ['travel', 'greece', 'santorini', 'island']
 ---
 
-![Kamari Beach on Santorini](/_images/santorini.png)
+<img src="/_images/santorini.png" class="article-topper" alt="Kamari Beach on Santorini" />
 
 ## From the Future!
 
