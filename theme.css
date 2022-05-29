@@ -5,6 +5,13 @@
     width: 100%
 }
 
+img.in-article {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .postTop {
     text-align: center;
 }
