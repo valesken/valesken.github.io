@@ -61,7 +61,7 @@ Millie would run ahead, explore down some paths, jump in a passing stream, and g
 wonderful and made me wish we had a dog of our own. It didn't take long for the first problem to arise, though. Millie
 was clearly quite thirsty, but we had no water to give her. Eventually, we came to a horse-riding business and got
 someone there to provide us with some water that we could give to Millie. Unfortunately, along the way we ran into
-another problem; Millie had a strong tendency to chase after cars. This might not be a problem if we had a leash, but
+another problem; Millie had a strong tendency to chase after cars. This might not have been a problem if we had a leash, but
 again, this was not our dog. Faced with a busy main road and a dog that might get itself killed at any point, we decided
 to turn around and not visit Milies. It was just going to be too stressful.
 
@@ -79,24 +79,24 @@ explore it in too much depth, but it feels like a really nice place to spend a v
 ## The Mode of Goodness
 
 Before buying this farm, Olivier spent a long time in India and Switzerland running self-sufficient communities of
-various scales. He mentioned that in southern Switzerland, one community had as many as 600 people and that, except for
+various scales. He mentioned that one community in southern Switzerland had as many as 600 people and that, except for
 salt and sugar, they were completely self-sufficient. This is, it seems, the reason he knows how to farm.
 
 Olive trees are new to him, though. He and his partner only acquired this place 3 or 4 years ago. But he's figuring it
 out and, if the olive oil I've tasted is any indication, he's doing it right. When there is something he's unsure of, he
 has plenty of neighbors to ask for advice. In fact, it seems like he's become quite friendly with many of them. His
-goatherd neighbor, for example, came by several times just in the last week to say hello and chat with Olivier. Another
-neighbor of his raises bees and sold Olivier a couple boxes so he could try rearing bees on his land.
+goatherd neighbor, for example, came by several times just in the last week to say hello. Another neighbor of his raises
+bees and sold Olivier a couple boxes so he could try rearing bees on his land.
 
 But Olivier's time in self-sufficient communities was about far more than just farming and it is clear that a lot of the
 philosophy and spirituality he gathered from those times in his life are still very present and relevant to him. Nearly
 every night, as we sit around the dinner table and chat, he begins to discuss the various esoteric beliefs and systems
 that form the foundation of his life. I don't know if he would agree that this is a good description of it, but my
-impression is that he follows a sort of mystical hinduism that emphasizes the individual's abilities to read and
-understand the foundational texts of Hinduism - the Vedas. It's lead to some very interesting conversations on the
-human nature, karma, reincarnation, and all sorts of other spiritual topics. As a non-spiritual person, this can at
-times be quite challenging. But there is a lot of very interesting psychology and ways of framing reality behind what
-he says and I've found that I get valuable insights from our rambling conversations.
+impression is that he follows a sort of mystical Hinduism that emphasizes the individual's abilities to read and
+understand the foundational texts of Hinduism - the Vedas. It's led to some very interesting conversations on human
+nature, karma, reincarnation, and all sorts of other spiritual topics. As a non-spiritual person, this can at times be
+quite challenging. But there is a lot of very interesting psychology and ways of framing reality behind what he says and
+I've found that I get valuable insights from our rambling conversations.
 
 In particular, he seems to be very fond of the idea that people are always acting in the "mode" of Goodness, Ignorance,
 or Passion. My initial reaction was that this feels a little overly simplified. Surely, one could be acting in other
@@ -110,7 +110,7 @@ energetic man with more youthful energy at the age of 66 than I have probably ev
 strangers into his house, feeds them incredible meals, and spends hours chatting with them and playing at being a tour
 guide. If his opinions on the soul lead him to such wonderful openness and joy, who am I to attempt to shut him down?
 
-And after tomorrow, we may never talk again. We will be strangers once more. What a strange feeling.
+And after tomorrow, we may never talk again. We will be strangers once more. What an odd feeling.
 
 ## Beaches of the Pelion Peninsula
 
@@ -127,11 +127,11 @@ little sandy, but easy to lie upon.
 We set up our umbrellas and began to inflate our stand-up paddle-boards, which takes quite a while and can be exhausting
 by the time you're done. As such, we took turns at the task. I filled one up about halfway, then Alexa took over.
 Olivier, with an impish grin on his face, approached me with a challenge. We would each select six stones and, taking
-turns, see who could get the most skips. It was a close battle and we were neck and neck most of the way. I skipped a
-stone with three jumps, then he did the same. With my third stone, I felt sure I would cinch the victory as my stone
-managed a solid six jumps. But then he matched my throw with a six-jump throw of his own! In the end, I squeaked out a
-win with a difference of a single jump. Triumphant, I turned to Alexa with the good news but as it happened, she had
-already finished inflating the board.
+turns, see who could get the most skips. The loser would have to take the next turn at inflating the paddle-board. It was
+a close battle and we were neck and neck most of the way. I skipped a stone with three jumps, then he did the same. With
+my third stone, I felt sure I would cinch the victory as my stone managed a solid six jumps. But then he matched my throw
+with a six-jump throw of his own! In the end, I squeaked out a win with a difference of a single jump. Triumphant, I
+turned to Alexa with the good news but as it happened, she had already finished inflating the board.
 
 Two days earlier, we'd gone to another beach on the opposite side of the peninsula for an earlier attempt at stand-up
 paddle-boarding, but the waves had been a bit too intimidating to Alexa and I. This time, we would not wimp out. Because
