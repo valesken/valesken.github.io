@@ -8,20 +8,18 @@ tags: ['travel', 'scotland', 'uk', 'hiking']
 <img src="/_images/loch_lomond.png" class="article-topper" alt="A view of the northern part of Loch Lomond" />
 
 We left Wales as the sky turned the hills into grey mist and rain. Our train, heading north for Glasgow, was packed. It was the end of the weekend of
-the Queen's Platinum Jubilee and it seemed that the whole country was on the move. Most of the way, we ended up in the aisles with our large bags
-quickly becoming the basis of an obstacle course for those unfortunate passengers who needed to get by. Then, our second transfer was delayed for
-reasons unknown, meaning our already fairly late train would be arriving even later. I informed my friends at whose house we were planning to spend
-the night and thankfully, they were gracious about it. My friend recently arranged a trip to Yorkshire and ended up having both sides of her journey
-cancelled on her, so she was sympathetic to us. Apparently there have been many issues with trains in the UK recently. Staffing shortages stemming
-from the COVID crisis, combined with budget issues, have taken their toll.
+the Queen's Platinum Jubilee and it seemed that the whole country was on the move. We ended up in the aisles most of the way with our large bags
+quickly forming an obstacle course for those unfortunate passengers who needed to get by. Then, our second transfer was delayed for reasons unknown,
+meaning our already fairly late train would be arriving even later. Apparently there have been many issues with trains in the UK recently. Staffing
+shortages stemming from the COVID crisis, combined with budget issues, have taken their toll.
 
-Nonetheless, we eventually arrived. Our voices low so as not to wake their two young children, we chatted a bit with my friends, then headed to bed.
-It would be an early morning.
+Nonetheless, we did eventually arrive. Our voices low so as not to wake their two young children, we chatted a bit with my friends, then headed to
+bed. It would be an early morning.
 
-This far north, the summer sun rises early. We normally are the sort that do not easily transition into wakefulness. It takes time, caffeine, and the
-understanding that we cannot be held fully liable for the words we say. But the early sunrise helped. The night before, we re-arranged our bags so as
-to take only the minimum amount we would need. There was only one task left - to acquire a guidebook and a map. There were some online, but internet
-access would be spotty and it seemed wise to have a physical map on hand.
+The summer sun rises early this far north, which helped. We are the sort that take a while to come to full wakefulness. It takes time, caffeine, and
+the understanding that we cannot be held fully liable for the words we say. But the early sunrise really helped. The night before, we re-arranged our
+bags so as to take with us only what we would really need for the trail. There was only one task left - to acquire a guidebook and a map. There were
+some online, but internet access would be spotty and it seemed wise to have a physical map on hand.
 
 Thus, we said our goodbyes and made our way to a bookstore near the train station. It took some searching, but we found precisely the book we were
 looking for, a guide written by the non-profit which manages the West Highland Way itself. It has a plastic cover to keep off the rain, a map in the
@@ -39,22 +37,22 @@ at a time, but it helped. Our shoulders were somewhat used to the weight.
 
 The weather that first day was perfect. The sun was shining, the breeze was light, and the only clouds were high above, puffy, and white. As we
 walked, an older Scottish lady came up to us and began to chat. She lived in the area and liked to hike around when she could. Clearly, the activity
-was doing her well as she easily matched our pace and likely should have gone faster. She told us about the hills around us, which ones were good day
-hikes and which ones the locals liked to run up and down. She asked where we were staying along the Way and gave us some excellent recommendations
+was doing her well as she easily matched our pace and likely should have gone faster. She told us about the surrounding hills, which ones were good
+day hikes and which ones the locals liked to run up and down. She asked where we were staying along the Way and gave us some excellent recommendations
 for restaurants to explore. We told her about our travels, our time in Greece, visiting the National Parks in the States, and more. As we came up to a
 wooden gate, she bid us farewell. Alexa and I smiled and waved goodbye, pleased to already be meeting friendly characters.
 
 Shortly afterwards, we came across a distillery that we'd heard about: Glengoyne. It had only been 7 miles, did we really deserve to go taste some
 whisky?
 
-Yes. Obviously, yes. We tucked our bags and hiking poles away in a closet in the shop, then joined a tour and tasting. Glengoyne is a little bit
-unique in that they are located on the line between the Highlands and the Lowlands, so depending on who you ask, their whisky may be classified
-differently. They claim to make a Highlands whisky, but it is aged across the road in the Lowlands, so what is it really? Well, judging by the two wee
-drams I tasted, I don't care which it is. Glengoyne is a delicious, non-peated whisky that I would very happily drink again and again. The tour was
-really excellent, too. They had a great display showing how whisky changes with age in the cask, both in terms of color and volume, that I'll remember
-for a long time.
+Yes. Obviously, yes. We tucked our bags and hiking poles away in a closet in the shop, then joined a tour and tasting. Glengoyne is a little unique in
+that they are located on the line between the Highlands and the Lowlands, so depending on who you ask, their whisky may be classified differently.
+They claim to make a Highlands whisky, but it is aged across the road in the Lowlands, so what is it really? Well, judging by the two wee drams I
+tasted, I don't care which it is. Glengoyne is a delicious, non-peated whisky that I would very happily drink again and again. The tour was really
+excellent, too. They had a great display showing how whisky changes with age in the cask, both in terms of color and volume, that I'll remember for a
+long time.
 
-Spirits renewed, we countinued our journey. It led us alongside some farms and roads, under a highway, then through a glen, up a hill, and into the
+Spirits renewed, we continued our journey. It led us alongside some farms and roads, under a highway, then through a glen, up a hill, and into the
 town of Drymen. We found our hotel and gratefully finally lay down our bags. Both of our feet and shoulders were sore and I was beginning to develop
 a blister on the ball of my feet. Nothing a hot shower or bath wouldn't fix. Very happily, our room was appropriately equipped for this. And indeed,
 we both felt much, much better afterwards. Dinner was at a wonderful old pub called The Clachan Inn. According to the Scottish woman we'd hiked
@@ -73,11 +71,11 @@ We came to a crossing of trails, beyond which the land slowly ascended towards t
 the side. They'd passed us the previous day as we were debating whether or not to visit the distillery. Enthusiastically, we waved hello and told them
 about our visit. The pair, Renee and Sarid, were friends from the Netherlands who we would run into several times more. They were a lively, friendly
 pair and we spent a fair while chatting with them while they rested and smoked a couple of cigarettes. We told them about our travels thus far and
-we talked a little about how we were finding the hike. Eventually, we parted ways, promising to meet up later.
+we talked a little about how we were finding the hike. Eventually, we parted ways, promising to meet up at the hostel later.
 
 The trail wound through an open pasture, crossed a stream, then lead steeply up the side of Conic Hill. This was the first real bit of elevation we
 had encountered on the trail and difficult as it was, it also was somewhat welcome. The breeze whipped at us as we climbed and sweat soaked into the
-straps of our bags, but we were happy. It was another beautiful, sunny day, and the views around us were incredible. What more could we ask for? As
+straps of our bags, but we were happy. It was another beautiful, sunny day, and the surrounding views were incredible. What more could we ask for? As
 the trail reached its highest point, we took a slight detour and climbed to the real peak of Conic Hill. From there, Loch Lomond sprawled before us.
 In the distance, the Highlands beckoned.
 
@@ -107,7 +105,7 @@ point to rest, recover, and eat. We just had to make it there!
 The first 7 miles from Rowardennan took us along the eastern flank of Loch Lomond, always heading north. This section of trail was rocky, with
 constant ups and downs and twisting roots. There wasn't much elevation to deal with as it hug closely to the shoreline. No, it was difficult simply
 because the trail had devolved into a scrabbling path. I was glad to have my walking stick with me. Otherwise, this surely would have destroyed my
-knees, which have been problematic for the better part of the last ten years. Luckily, so far, they hadn't complained.
+knees, which have been problematic for the better part of the last ten years. They hadn't complained yet and I wanted to keep it that way.
 
 This was, we would later learn, Rob Roy's old territory. He had owned land in this part of Scotland before becoming the famous outlaw we know of
 today. Even after turning to brigandry, he still used this area as his base of operations. In fact, there is supposedly a small cave along the way
@@ -120,18 +118,18 @@ evidently been holding onto our body heat as we exercised and once we stopped mo
 moment and have a hot beverage.
 
 The second half of the day was a little less rainy and the path got a little less tricky. This was great news, because we were already exhausted and
-cold with sore feet from the first half. I'd developed three blisters on my feet and they were not making life easier. The views, however, were
-amazing. We gained a small amount of elevation on this part of the path and, moving alongside the loch as we were, we had a spectacular view. The
-northern end of Loch Lomond is quite different from the southern end. The south is broad and shallow, with many small islands. It is surrounded by low
-hills, rolling into the distance. The north is narrow and deep with fewer islands and dramatic drops from the dense hillsides. The clouds snaked
-through, masking the tops of the hills and lending an air of deep mystery to the place. Now, it felt, we were in the highlands.
+feeling thoroughly soggy. I had also developed three blisters on my feet and they were not making life easier. The views, however, were amazing and
+absolutely made it all worth it. We gained a small amount of elevation on this part of the path and, moving alongside the loch as we were, we had a
+spectacular view. The northern end of Loch Lomond is quite different from the southern end. The south is broad and shallow, with many small islands.
+It is surrounded by low hills, rolling into the distance. The north is narrow and deep with fewer islands and dramatic drops from the dense hillsides.
+The clouds snaked through them, masking their crowns and lending an air of deep mystery to everything. Now, it felt, we were in the highlands.
 
-By the time we reached out destination, we were truly exhausted. We had to walk across a bridge and along a sidewalk to get to our lodging and it was
-strange how awful the cement felt beneath our feet. I had never really noticed how hard cement feels to walk in and in such an unpleasant way. But
-warm food, a bed, and a shower awaited us. We could deal with it.
+By the time we reached our destination, we were truly exhausted. We had to walk across a bridge and along a sidewalk to get to our lodging and it was
+really striking just how awful the cement felt beneath our feet. I had never really noticed how hard cement feels to walk in and in such an unpleasant
+way. But warm food, a bed, and a shower awaited us. We could deal with it.
 
 The place we stayed in, the Drovers Inn, was so cool. It was founding in 1705 and was famously the haunt of Rob Roy. Inside, they have old tartans,
-muskets, flintlock pistols, longswords, and all sorts of memorabilia from the past few hundred years. The walls are dark brown, the color of charred
-wood, and the old timbers sag in places. It is old and you can feel it, but that's the charm.
+muskets, flintlock pistols, longswords, and all sorts of memorabilia from the past few hundred years hanging on walls the color of charred wood. The
+old timbers sag in places and the plaid carpet had become worn out from overuse a decade ago. It is ancient and you can feel it, but that's the charm.
 
 That night, we ate and slept well.
