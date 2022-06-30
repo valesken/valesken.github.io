@@ -124,9 +124,9 @@ spectacular view. The northern end of Loch Lomond is quite different from the so
 It is surrounded by low hills, rolling into the distance. The north is narrow and deep with fewer islands and dramatic drops from the dense hillsides.
 The clouds snaked through them, masking their crowns and lending an air of deep mystery to everything. Now, it felt, we were in the highlands.
 
-By the time we reached our destination, we were truly exhausted. We had to walk across a bridge and along a sidewalk to get to our lodging and it was
-really striking just how awful the cement felt beneath our feet. I had never really noticed how hard cement feels to walk in and in such an unpleasant
-way. But warm food, a bed, and a shower awaited us. We could deal with it.
+By the time we reached our destination of Inverarnan, we were truly exhausted. We had to walk across a bridge and along a sidewalk to get to our
+lodging and it was really striking just how awful the cement felt beneath our feet. I had never really noticed how hard cement feels to walk in and in
+such an unpleasant way. But warm food, a bed, and a shower awaited us. We could deal with it.
 
 The place we stayed in, the Drovers Inn, was so cool. It was founding in 1705 and was famously the haunt of Rob Roy. Inside, they have old tartans,
 muskets, flintlock pistols, longswords, and all sorts of memorabilia from the past few hundred years hanging on walls the color of charred wood. The
